@@ -7,7 +7,7 @@ You can run this on a Linux or a Mac right now.
 On a Mac, make sure to read the instructions on your screen about setting your proxy.
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/hpcloud/cf-solo/master/run-cf-solo.sh)
+bash <(curl -s https://raw.githubusercontent.com/SUSE/cf-solo/master/run-cf-solo.sh)
 ```
 
 The need for a proxy on a mac exists because of [some network problems](https://docs.docker.com/docker-for-mac/networking/#/per-container-ip-addressing-is-not-possible).
